@@ -5,9 +5,10 @@ It take ones height and weight to determine his/her obesity and show a diet plan
 it has other functions like checking how much calories you have eaten in the day.
 # How to install
 1) run the winrar file.
-2) run the project.sql and excute each line so that you have a database created in your computer. 
-3) run stayhealthy.exe file to run the project
-4) have fun
+2) run the project.sql and excute each line so that you have a database created in your computer.
+3) open the sln file and change the name of the computer in the connection variable according to your computer.
+4) run stayhealthy.exe file to run the project
+5) have fun
 # Output Images
 ![image](https://user-images.githubusercontent.com/77490589/193580491-5afe3585-4d28-4ff1-a1bc-69beff28e2e2.png)
 ![image](https://user-images.githubusercontent.com/77490589/193580516-ed586d83-4b4f-403b-87cc-538395b53b6e.png)
